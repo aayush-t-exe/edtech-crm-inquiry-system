@@ -287,6 +287,8 @@ Two Vercel projects from this one repository:
 
 The transaction pooler suits serverless functions, which open many short-lived connections; each function instance keeps a pool of at most 3. [`backend/vercel.json`](backend/vercel.json) pins the function to Mumbai (`bom1`); change it if your Supabase project is in another region, since every query crosses that distance.
 
+Both projects are connected to this GitHub repository, so every push to `main` redeploys them automatically (each project builds only its own Root Directory).
+
 ---
 
 ## Security notes
