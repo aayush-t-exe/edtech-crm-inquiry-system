@@ -2,7 +2,7 @@
 
 A full-stack inquiry desk for an EdTech team. Parents, students and schools send a question through a public form; admins log in with **custom JWT authentication** to see, filter, search and work through every inquiry.
 
-**Live demo:** https://LIVE-FRONTEND-URL &nbsp;·&nbsp; **Admin:** https://LIVE-FRONTEND-URL/admin &nbsp;·&nbsp; **API health:** https://LIVE-BACKEND-URL/api/health
+**Live demo:** https://edtech-crm-aayush.vercel.app &nbsp;·&nbsp; **Admin:** https://edtech-crm-aayush.vercel.app/admin &nbsp;·&nbsp; **API health:** https://edtech-crm-api.vercel.app/api/health
 
 > **Demo admin login:** `demo@inquirydesk.dev` / `Demo@12345` (the login page also has a "Fill in" button).
 
