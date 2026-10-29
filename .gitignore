@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.vercel/
+backend/.local-pg/
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
